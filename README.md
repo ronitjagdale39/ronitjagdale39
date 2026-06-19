@@ -55,6 +55,6 @@
 
 ## Connect With Me
 
-LinkedIn: (tera linkedin link)
+LinkedIn: https://linkedin.com/in/ronitjagdale39
 
 GitHub: https://github.com/ronitjagdale39
