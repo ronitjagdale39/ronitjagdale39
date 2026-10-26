@@ -100,7 +100,7 @@ As a backend engineer, I build software that is **production-ready**, reliable, 
 
 ---
 
-### 2. 🏥 PatientCare Management System — Enterprise Healthcare REST API
+### 2. 🏥 CuraAI - AI inspired healthcare system
 > **Robust, HIPAA-inspired electronic health records backend engineered with strict transactional safety and audit tracking.**
 
 - **Architecture**: Layered service-oriented architecture with asynchronous database sessions and connection pooling.
