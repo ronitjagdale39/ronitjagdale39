@@ -141,16 +141,47 @@ As a backend engineer, I build software that is **production-ready**, reliable, 
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ronitjagdale39&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=0D1117" alt="Ronit's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitjagdale39&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" />
+
+  <!-- GitHub Stats -->
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=ronitjagdale39&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=0D1117&cache_seconds=1800"
+    alt="Ronit's GitHub Stats"
+  />
+
+  <!-- Most Used Languages -->
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitjagdale39&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0D1117&cache_seconds=1800"
+    alt="Most Used Languages"
+  />
+
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img height="180" src="https://streak-stats.demolab.com?user=ronitjagdale39&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+<br/>
+
+<!-- GitHub Contribution Streak -->
+<div align="center">
+
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=ronitjagdale39&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
+    alt="GitHub Contribution Streak"
+  />
+
 </div>
 
-<div align="center" style="margin-top: 15px;">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ronitjagdale39&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" alt="Contribution Graph" />
+<br/>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+
+  <img
+    width="98%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ronitjagdale39&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8"
+    alt="GitHub Contribution Activity Graph"
+  />
+
 </div>
 
 ---
@@ -158,6 +189,7 @@ As a backend engineer, I build software that is **production-ready**, reliable, 
 ## ⚡ What I Bring to Your Engineering Team
 
 | Strengths | What It Means in Practice |
+|---|---|
 | :--- | :--- |
 | **🚀 Fast Learner & Adaptable** | Can pick up new tech stacks, internal tooling, and frameworks within days. |
 | **🔍 High Attention to Detail** | I write self-documenting code, type hints, comprehensive tests, and clean Git commits. |
